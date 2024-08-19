@@ -1,0 +1,170 @@
+{
+  "uuid": "7523abc9230f244e6c3ff87ffefa5061",
+  "path": "Offline/first",
+  "name": "first",
+  "content": "",
+  "created_at": "2024-08-19 19:44:48",
+  "updated_at": "2024-08-19 20:35:55",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "da8a1cc879c38bd5a5f3b00647f1f225",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "56f8b2b64a544f3d820bc0399720da54": 1,
+        "aac52597c6ec48e09ea3705a2f54d7d2": 2,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1,
+        "b0248eb51e084227889f2cb84eab79c4": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "LED-TH-3mm_G",
+          1,
+          "LED-TH_BD3.0_GREEN",
+          "LED1",
+          {
+            "Manufacturer Part": "204-10SYGD/S530-E3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "",
+            "Supplier Part": "C85161"
+          }
+        ],
+        [
+          "LED-TH-3mm_B",
+          2,
+          "LED-TH_BD3.0_BLUE",
+          "LED2,LED3",
+          {
+            "Manufacturer Part": "204-10SUBC/S400-A4",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C86881"
+          }
+        ],
+        [
+          "1k",
+          3,
+          "R0603",
+          "R1,R2,R3",
+          {
+            "Manufacturer Part": "MFR-25FRF52-130R",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3482538"
+          }
+        ]
+      ],
+      "updateTime": 1724079217,
+      "createTime": 1724076889,
+      "histories": [],
+      "created_at": "2024-08-19 19:44:49",
+      "updated_at": "2024-08-19 20:23:37"
+    },
+    {
+      "uuid": "b3e22ac2ed3384ae347b2f91c1d03856",
+      "puuid": "7523abc9230f244e6c3ff87ffefa5061",
+      "title": "PCB_first",
+      "filename": "PCB_first.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1337670005c6484c999f9b4c272ee9fe": 1,
+        "52107c2975c74633a8d8f531ccb01bc4": 1,
+        "52c11d38b35a4fc594f3067d1697639d": 2,
+        "398691f1f785460098bbe5ee6590333c": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "Manufacturer Part": "DC005-2.0MM",
+            "Manufacturer": "SOFNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C111567"
+          }
+        ],
+        [
+          "LED-TH-3mm_G",
+          1,
+          "LED-TH_BD3.0_GREEN",
+          "LED1",
+          {
+            "Manufacturer Part": "204-10SYGD/S530-E3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "",
+            "Supplier Part": "C85161"
+          }
+        ],
+        [
+          "LED-TH-3mm_B",
+          2,
+          "LED-TH_BD3.0_BLUE",
+          "LED2,LED3",
+          {
+            "Manufacturer Part": "204-10SUBC/S400-A4",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C86881"
+          }
+        ],
+        [
+          "1k",
+          3,
+          "R0603",
+          "R1,R2,R3",
+          {
+            "Manufacturer Part": "MFR-25FRF52-130R",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3482538"
+          }
+        ]
+      ],
+      "updateTime": 1724079955,
+      "createTime": 1724079785,
+      "histories": [],
+      "created_at": "2024-08-19 20:33:05",
+      "updated_at": "2024-08-19 20:35:55"
+    }
+  ],
+  "sort": [],
+  "title": "first",
+  "foldername": "first",
+  "schfilename": "first.json",
+  "schfilemtime": 1724079217277
+}
